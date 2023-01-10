@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TranNghiaHiep/blockchain-basic/issues"
   },
-  "homepage": "https://github.com/TranNghiaHiep/blockchain-basic#readme"
+  "homepage": "https://github.com/TranNghiaHiep/blockchain-basic#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
 }
